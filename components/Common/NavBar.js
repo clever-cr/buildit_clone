@@ -7,9 +7,9 @@ function NavBar() {
         <h2>Buildit</h2>
         <div className="space-x-6 ">
           <Link href="/about">About</Link>
-          <Link href="/">Services</Link>
-          <Link href="/">Projects</Link>
-          <Link href="/">Contact</Link>
+          <Link href="/services">Services</Link>
+          <Link href="/projects">Projects</Link>
+          <Link href="/contact">Contact</Link>
         </div>
 
         <button className="bg-darkblue text-white px-4 py-2 rounded-md">
