@@ -1,5 +1,4 @@
-function Profile({img,name,status}) {
-    
+function Profile({ img, name, status }) {
   return (
     <div>
       <picture>
